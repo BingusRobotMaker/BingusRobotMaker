@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @BingusRobotMaker
 - 👀 I’m interested in python and arduino
 - 🌱 I’m currently learning python
-- 📫 Email: milancvitanic@gmail.com
